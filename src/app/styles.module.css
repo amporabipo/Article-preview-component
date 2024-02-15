@@ -1,0 +1,8 @@
+.container {
+  max-width: 100dvw;
+  height: 100dvh;
+  background-color: var(--Light-Grayish-Blue);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
